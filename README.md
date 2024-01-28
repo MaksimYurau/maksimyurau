@@ -13,3 +13,10 @@
 <a href="https://github.com/MaksimYurau">
 <img align="center" alt="Maksim's GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=maksimyurau&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
+
+<h2 align="center"> Frequently used languages </h2>
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maksimyurau&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
+</a>
+</p>
