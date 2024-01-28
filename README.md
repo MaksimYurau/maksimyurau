@@ -6,3 +6,10 @@
 ### Follow me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/maksim-yurau/)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=WRTimer)
+
+<h2 align="center"> My GitHub Statistics </h2>
+<br>
+<p align="center">
+<a href="https://github.com/MaksimYurau">
+<img align="center" alt="Maksim's GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=maksimyurau&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
